@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Journei Ferguson
 - 👀 I’m interested in Software Enginnering and Graphic Design
-- 🌱 I’m currently learning Python, Web development, and C++
+- 🌱 I’m currently learning C++, Python, Web development, Prompt Engineering, and more
 - 📫 How to reach me ... email: journeiferguson@spelman.edu
 
 <!---
