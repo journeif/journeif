@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Journei Ferguson
 - 👀 I’m interested in Software Enginnering and Product Management
-- 🌱 I’m currently learning C++, Python, Web development, Prompt Engineering, and more
+- 🌱 I’m currently learning C++, Python, react.js, Web development, Prompt Engineering, and more
 - 📫 How to reach me ... email: journeiferguson@spelman.edu or https://www.linkedin.com/in/journei-ferguson/
 
 <!---
